@@ -40,55 +40,55 @@ List of models are in `models/my models.txt`
 
 ##### Folder: ControlNet
 
-• Downloaded Manually:
-[diffusion_sd_controlnet_canny.safetensors (used)](https://huggingface.co/lllyasviel/sd-controlnet-canny)
-[diffusion_sd_controlnet_depth.safetensors](https://huggingface.co/lllyasviel/sd-controlnet-depth)
-[diffusion_sd_controlnet_mlsd.safetensors](https://huggingface.co/lllyasviel/sd-controlnet-mlsd/tree/main)
-[diffusion_sd_controlnet_seg.safetensors](https://huggingface.co/lllyasviel/sd-controlnet-seg)
-ip-adapter_sdxl.safetensors
-[kohya_controllllite_xl_canny.safetensors](https://huggingface.co/lllyasviel/sd_control_collection/tree/main)
-[kohya_controllllite_xl_depth.safetensors](https://huggingface.co/lllyasviel/sd_control_collection/tree/main)
-[t2iadapter_color_sd14v1.pth (used)](https://huggingface.co/TencentARC/T2I-Adapter/tree/main/models)
-[t2iadapter_style-fp16.safetensors](https://huggingface.co/webui/ControlNet-modules-safetensors/tree/main)
-[t2iadapter_style_sd14v1.pth](https://huggingface.co/TencentARC/T2I-Adapter/tree/main/models)
+• Downloaded Manually:\
+[diffusion_sd_controlnet_canny.safetensors (used)](https://huggingface.co/lllyasviel/sd-controlnet-canny)\
+[diffusion_sd_controlnet_depth.safetensors](https://huggingface.co/lllyasviel/sd-controlnet-depth)\
+[diffusion_sd_controlnet_mlsd.safetensors](https://huggingface.co/lllyasviel/sd-controlnet-mlsd/tree/main)\
+[diffusion_sd_controlnet_seg.safetensors](https://huggingface.co/lllyasviel/sd-controlnet-seg)\
+[ip-adapter_sdxl.safetensors](https://huggingface.co/h94/IP-Adapter/tree/main/sdxl_models)\
+[kohya_controllllite_xl_canny.safetensors](https://huggingface.co/lllyasviel/sd_control_collection/tree/main)\
+[kohya_controllllite_xl_depth.safetensors](https://huggingface.co/lllyasviel/sd_control_collection/tree/main)\
+[t2iadapter_color_sd14v1.pth (used)](https://huggingface.co/TencentARC/T2I-Adapter/tree/main/models)\
+[t2iadapter_style-fp16.safetensors](https://huggingface.co/webui/ControlNet-modules-safetensors/tree/main)\
+[t2iadapter_style_sd14v1.pth](https://huggingface.co/TencentARC/T2I-Adapter/tree/main/models)\
 
-##### Folder: ControlNetPreprocessor
+#### Folder: ControlNetPreprocessor
 
-• Automatically downloaded:
-clip_vision/clip_g.pth
-clip_vision/clip_vitl.pth
-midas/dpt_hybrid-midas-501f0c75.pt
-mlsd/mlsd_large_512_fp32.pth
-oneformer/250_16_swin_l_oneformer_ade20k_160k.pth
-uniformer/upernet_global_small.pth
-CLIP-ViT-H-14.safetensors
+• Automatically downloaded:\
+clip_vision/clip_g.pth\
+clip_vision/clip_vitl.pth\
+midas/dpt_hybrid-midas-501f0c75.pt\
+mlsd/mlsd_large_512_fp32.pth\
+oneformer/250_16_swin_l_oneformer_ade20k_160k.pth\
+uniformer/upernet_global_small.pth\
+CLIP-ViT-H-14.safetensors\
 
-##### Folder: diffusers (used in img2img inpainting)
+#### Folder: diffusers (used in img2img inpainting)
 
-• Automatically downlaoded:
-[models--bert-base-uncased (folder, used)](https://huggingface.co/google-bert/bert-base-uncased)
-[models--Uminosachi--realisticVisionV51_v51VAE-inpainting (folder, used)](https://huggingface.co/Uminosachi/realisticVisionV51_v51VAE-inpainting/tree/main)
-• Downloaded Manually:
-[realisticVisionV51_v51VAE-inpainting.safetensors](https://civitai.com/models/4201?modelVersionId=130090)
+• Automatically downlaoded:\
+[models--bert-base-uncased (folder, used)](https://huggingface.co/google-bert/bert-base-uncased)\
+[models--Uminosachi--realisticVisionV51_v51VAE-inpainting (folder, used)](https://huggingface.co/Uminosachi/realisticVisionV51_v51VAE-inpainting/tree/main)\
+• Downloaded Manually:\
+[realisticVisionV51_v51VAE-inpainting.safetensors](https://civitai.com/models/4201?modelVersionId=130090)\
 
-##### Folder: ESRGGAN
+#### Folder: ESRGGAN
 
-• Downloaded Manually:
-[4x_NMKD-Siax_200k.pth](https://docs.gymdreams8.com/automatic1111_upscalers.html#_4x-nmkd-siax-200k)
+• Downloaded Manually:\
+[4x_NMKD-Siax_200k.pth](https://docs.gymdreams8.com/automatic1111_upscalers.html#_4x-nmkd-siax-200k)\
 
-##### Folder: Stable-diffusion
+#### Folder: Stable-diffusion
 
-• Automatically downloaded (on first install):
-[realisticVisionV51_v51VAE.safetensors (used)](https://civitai.com/models/4201?modelVersionId=130072)
-• Downloaded Manually:
-[juggernautXL_juggXIByRundiffusion.safetensors (Jugg_Xl_by_RunDIffusion)](https://civitai.com/models/133005?modelVersionId=782002)
-[juggernautXL_v9Rundiffusionphoto2.safetensors (V9 + RunDIffusionPhoto 2)] (https://civitai.com/models/133005?modelVersionId=348913)
+• Automatically downloaded (on first install):\
+[realisticVisionV51_v51VAE.safetensors (used)](https://civitai.com/models/4201?modelVersionId=130072)\
+• Downloaded Manually:\
+[juggernautXL_juggXIByRundiffusion.safetensors (Jugg_Xl_by_RunDIffusion)](https://civitai.com/models/133005?modelVersionId=782002)\
+[juggernautXL_v9Rundiffusionphoto2.safetensors (V9 + RunDIffusionPhoto 2)] (https://civitai.com/models/133005?modelVersionId=348913)\
 
-##### Folder: VAE-approx
+#### Folder: VAE-approx
 
-• Automatically downloaded (on first install):
-model.pt
-vaeapprox-sdxl.pt
+• Automatically downloaded (on first install):\
+model.pt\
+vaeapprox-sdxl.pt\
 
 ### Step 3 - Download Extensions
 
@@ -119,3 +119,55 @@ cd sd-webui-reForge-decoraition
 ```
 
 This will open the app in `http://127.0.0.1:7860/`
+
+To exit the app, `Ctrl + C` on the keyboard until exited.
+
+# Notes
+
+### Python Version
+
+To run the app, your computer must have:
+
+#### Python 3.10.6
+
+If you're downgrading, uninstall "Python Launcher" from the "Control Panel" because you have higher Python version installed, so you can install it as administrator.
+
+Download Link: https://www.python.org/downloads/release/python-3106/
+
+Recommended: Windows installer (64-bit)
+
+### Checking dependencies
+
+To check installed modules in the virtual environment:
+
+```bash
+cd sd-webui-reForge-decoraition
+.\venv\Scripts\activate
+pip freeze
+```
+
+To export module versions:
+
+```bash
+cd sd-webui-reForge-decoraition
+.\venv\Scripts\activate
+pip freeze > requirements_new.txt
+```
+
+To install module from requiremnts.txt manually:
+
+```bash
+cd sd-webui-reForge-decoraition
+.\venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+To exit the virtual environment:
+
+```bash
+deactivate
+```
+
+### Checking if SD Web UI API is working
+
+Make sure SD Web UI is running then go to `http://127.0.0.1:7860/docs`. It should load the different Web APIs available.
