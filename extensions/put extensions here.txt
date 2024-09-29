@@ -1,0 +1,8 @@
+My added extensions:
+sd-extension-system-info
+sd-webui-agent-scheduler
+sd-webui-aspect-ratio-helper
+sd-webui-controlnet
+sd-webui-inpaint-anything
+sd-webui-segment-anything
+StyleSelectorXL

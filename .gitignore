@@ -79,3 +79,4 @@ webui-user-7980-gpu1_main.bat
 /scripts/*
 /extensions/*
 !/extensions/put extensions here.txt
+!/models/my models.txt

@@ -1,0 +1,47 @@
+My Models:
+
+======= Folder: ControlNet =======
+• Downloaded Manually:
+diffusion_sd_controlnet_canny.safetensors     (used)
+diffusion_sd_controlnet_depth.safetensors
+diffusion_sd_controlnet_mlsd.safetensors
+diffusion_sd_controlnet_seg.safetensors
+ip-adapter_sdxl.safetensors
+kohya_controllllite_xl_canny.safetensors
+kohya_controllllite_xl_depth.safetensors
+t2iadapter_color_sd14v1.pth                   (used)
+t2iadapter_style-fp16.safetensors
+t2iadapter_style_sd14v1.pth
+
+======= Folder: ControlNetPreprocessor =======
+• Automatically downloaded:
+clip_vision/clip_g.pth
+clip_vision/clip_vitl.pth
+midas/dpt_hybrid-midas-501f0c75.pt
+mlsd/mlsd_large_512_fp32.pth
+oneformer/250_16_swin_l_oneformer_ade20k_160k.pth
+uniformer/upernet_global_small.pth
+CLIP-ViT-H-14.safetensors
+
+======= Folder: diffusers (used in img2img inpainting) =======
+• Automatically downlaoded:
+models--bert-base-uncased                                (folder, used)
+models--Uminosachi--realisticVisionV51_v51VAE-inpainting (folder, used)
+• Downloaded Manually:
+realisticVisionV51_v51VAE-inpainting.safetensors
+
+======= Folder: ESRGGAN =======
+• Downloaded Manually:
+4x_NMKD-Siax_200k.pth
+
+======= Folder: Stable-diffusion =======
+• Automatically downloaded (on first install):
+realisticVisionV51_v51VAE.safetensors         (used)
+• Downloaded Manually:
+juggernautXL_juggXIByRundiffusion.safetensors
+juggernautXL_v9Rundiffusionphoto2.safetensors
+
+======= Folder: VAE-approx =======
+• Automatically downloaded (on first install):
+model.pt
+vaeapprox-sdxl.pt
