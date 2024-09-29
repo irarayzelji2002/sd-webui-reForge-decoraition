@@ -61,7 +61,7 @@ midas/dpt_hybrid-midas-501f0c75.pt\
 mlsd/mlsd_large_512_fp32.pth\
 oneformer/250_16_swin_l_oneformer_ade20k_160k.pth\
 uniformer/upernet_global_small.pth\
-CLIP-ViT-H-14.safetensors\
+CLIP-ViT-H-14.safetensors
 
 #### Folder: diffusers (used in img2img inpainting)
 
@@ -69,12 +69,12 @@ CLIP-ViT-H-14.safetensors\
 [models--bert-base-uncased (folder, used)](https://huggingface.co/google-bert/bert-base-uncased)\
 [models--Uminosachi--realisticVisionV51_v51VAE-inpainting (folder, used)](https://huggingface.co/Uminosachi/realisticVisionV51_v51VAE-inpainting/tree/main)\
 • Downloaded Manually:\
-[realisticVisionV51_v51VAE-inpainting.safetensors](https://civitai.com/models/4201?modelVersionId=130090)\
+[realisticVisionV51_v51VAE-inpainting.safetensors](https://civitai.com/models/4201?modelVersionId=130090)
 
 #### Folder: ESRGGAN
 
 • Downloaded Manually:\
-[4x_NMKD-Siax_200k.pth](https://docs.gymdreams8.com/automatic1111_upscalers.html#_4x-nmkd-siax-200k)\
+[4x_NMKD-Siax_200k.pth](https://docs.gymdreams8.com/automatic1111_upscalers.html#_4x-nmkd-siax-200k)
 
 #### Folder: Stable-diffusion
 
@@ -82,13 +82,13 @@ CLIP-ViT-H-14.safetensors\
 [realisticVisionV51_v51VAE.safetensors (used)](https://civitai.com/models/4201?modelVersionId=130072)\
 • Downloaded Manually:\
 [juggernautXL_juggXIByRundiffusion.safetensors (Jugg_Xl_by_RunDIffusion)](https://civitai.com/models/133005?modelVersionId=782002)\
-[juggernautXL_v9Rundiffusionphoto2.safetensors (V9 + RunDIffusionPhoto 2)] (https://civitai.com/models/133005?modelVersionId=348913)\
+[juggernautXL_v9Rundiffusionphoto2.safetensors (V9 + RunDIffusionPhoto 2)](https://civitai.com/models/133005?modelVersionId=348913)
 
 #### Folder: VAE-approx
 
 • Automatically downloaded (on first install):\
 model.pt\
-vaeapprox-sdxl.pt\
+vaeapprox-sdxl.pt
 
 ### Step 3 - Download Extensions
 
